@@ -1,0 +1,20 @@
+# Ignore log files
+*.log
+*.log.*
+
+# Ignore specific directories
+cleaned-data/
+raw-data/
+logs/
+.venv/
+
+# Ignore all logs with any extensions (no need for excessive lines)
+*.log*
+*.csv
+
+jira_analysis_results.json
+analyze_columns.py
+cleanse_csv.py
+
+column_analysis_results.json
+*.txt
