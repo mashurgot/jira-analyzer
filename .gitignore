@@ -17,4 +17,5 @@ analyze_columns.py
 cleanse_csv.py
 
 column_analysis_results.json
-*.txt
+jira_analysis_report.txt
+
